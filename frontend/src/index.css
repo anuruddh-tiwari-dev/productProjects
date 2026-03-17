@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    background: #222;
+    color: white;
+    padding: 10px;
+}
+
+.navbar button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.navbar input {
+    padding: 5px;
+}
+
+.nav-links {
+    margin-left: auto;
+}
+
+.nav-links a {
+    color: white;
+    margin-left: 15px;
+    text-decoration: none;
+}
+
